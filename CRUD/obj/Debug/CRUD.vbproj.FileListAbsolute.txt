@@ -1,0 +1,20 @@
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\bin\Debug\CRUD.exe
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\bin\Debug\CRUD.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\bin\Debug\CRUD.xml
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\obj\Debug\CRUD.exe
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\obj\Debug\CRUD.xml
+C:\Users\HP\AppData\Local\Temporary Projects\CRUD\obj\Debug\CRUD.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\obj\Debug\CRUD.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\bin\Debug\CRUD.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CRUD\CRUD\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.Cache
